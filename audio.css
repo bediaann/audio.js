@@ -29,7 +29,7 @@ html, body {
     background-position-x : 50%;
 }
 .player {
-    background-color : rgba(237, 165, 214, 0.5);
+    background-color : #00000082;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -50,15 +50,16 @@ html, body {
 #songTitle {
     width: 100%;
     height: 10%;
+    padding-top: 6px;
     text-align: center;
-    font-family: monospace;
+    font-family: Trattatello, fantasy;
     font-size: 18px;
-    color: purple;
+    color: #b2b2b2;
 }
 .row2 {
     width: 100%;
     height: 50%;
-    background-color: rgba(216, 188, 224, 0.442);
+    background-color: #ffffff91;
 }
 .play {
     width: 100%;
@@ -95,14 +96,14 @@ html, body {
 .handle {
     width: 80%;
     height: 5px;
-    background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+    background: linear-gradient(to right,#754242d1 0%,  #000000a8 100%);
     border-radius: 25px;
 }
 #fill {
     height: 8px;
     width: 1px;
     border-radius: 25px;
-    background-color: lightblue;
+    background-color: #7d5e5e;
     z-index: 999;
     margin-top: -1.5px;
     margin-left: -1.5px;
@@ -112,7 +113,7 @@ html, body {
     height: 100%;
     margin-left: 35px;
     margin-top: -25px;
-    color: purple;
+    color: #460000;
 }
 .mute {
     height: 40%;

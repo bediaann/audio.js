@@ -2,14 +2,17 @@ var data = {
     title: [
         'Kar - Qez ___ Կար - Քեզ',
         "Ruth B. - Dandelions (Lyrics)",
+        "Lav Eli - The beginning"
     ],
     song: [
         'music/kar.mp3',
-        "music/rut.mp3"
+        "music/rut.mp3",
+        "music/lav-eli-the-beginning.mp3"
     ],
     poster: [
-        "https://i.gifer.com/7d20.gif",
-        "https://media2.giphy.com/media/5xtDarmSceWsGyD4VeE/source.gif"
+        "https://media2.giphy.com/media/qVDkVk4xo0q0U/100.webp?cid=ecf05e47b0esnmk2xseogvyv76zjyg5a223mqo5v0cexnhu5&rid=100.webp&ct=g",
+        "https://media0.giphy.com/media/SBvRuVDhdoDde/200.webp?cid=ecf05e47h35l80io90qo6cmcimcx6rclmodz8y05zdiklt3q&rid=200.webp&ct=g",
+        "https://media4.giphy.com/media/10h3idv6iEAzyo/200w.webp?cid=ecf05e475oj0wq0fspnp7fur0dd1st5wes6hgi1qfkprtrye&rid=200w.webp&ct=g"
     ]
 }
 
